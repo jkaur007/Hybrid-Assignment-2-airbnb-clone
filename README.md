@@ -83,23 +83,4 @@ function Card({ card }) {
     // Other JSX
   )
 }
-```
 
-### The `/public/` Folder
-
-The images are stored in `/public/cards`.
-
-> [!WARNING]
-> You must NOT include `'/public/'` in the file path, or the images won't display.
-
----
-
-## Testing
-
-Tested on Windows 10 with:
-
-- Chrome
-- Firefox
-- Microsoft Edge
-
-Page tested in both browser and device views.
