@@ -10,16 +10,6 @@ Objectives
 4.	Use this Scrimba template to complete hybrid assignment 2
 5.	Submit a link to your scrim containing the completed project.
 
-
-## Scrimba Course Link
-
-- [Build an AirBnb Experiences clone](https://scrimba.com/playlist/pqQgrcN)
-
-> [!NOTE]
-> (Free) subscription and login required to follow the course.
-
-<<<<<<< HEAD
----
 =======
 <h1>Project Description: Airbnb Clone (Scrimba)</h1>
 This project is an Airbnb Clone built using React.js as part of a Scrimba course. It replicates the core UI and functionality of Airbnb’s listing pages, allowing users to explore rental properties with a clean and modern design.
