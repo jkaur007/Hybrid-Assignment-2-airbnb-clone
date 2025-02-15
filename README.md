@@ -20,14 +20,7 @@ Objectives
 
 ---
 
-## Figma Design Link
 
-- [AirBnb Experiences](https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?type=design&node-id=2-2&mode=design&t=7jEF9WdeSe4zPuP0-0)
-
-> [!NOTE]
-> (Free) subscription and login required to view the file.
-
----
 
 ## Dynamic Image Paths
 
